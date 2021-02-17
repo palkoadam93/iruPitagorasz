@@ -1,0 +1,17 @@
+body {
+    background: orange;
+}
+
+div {
+    width: 960px;
+    margin: auto;
+    background: cornsilk;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    width: 200px;
+}
